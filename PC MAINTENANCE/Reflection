@@ -2,15 +2,18 @@ The PC maintenance workshop was a hands-on experience that gave me a much better
 I’ve always known the basics, but actually taking apart a PC and putting it back together made everything feel more real. 
 At first, I was a bit nervous handling the components, but step by step, it all started to make sense.
 
-We started by grounding ourselves to avoid static damage, then carefully removed the side panel of the case. 
-The first step was detaching the power supply and unplugging all cables. 
-Next, we removed the RAM, storage drives, and graphics card, making sure to handle them properly. 
-The trickiest part was taking out the CPU, as it’s delicate and needs careful handling. 
-After that, we cleaned the components, reapplied thermal paste to the CPU, and reassembled everything in reverse order—installing the motherboard, 
-CPU, cooling system, RAM, and drives before reconnecting power cables and ensuring proper cable management.
+This is the step by step how to disassemble the PC:
+1. Open the case, use screwdrivers
+2. Detach cables (in blue and orange colour) except cables at the wall of the PC.
+3. Loosen and take out the power supply.
+4. Take out the RAM (you can see the total gb of the RAM at the white section, for this pc it has 4GB)
+5. Take out the hard disk (total 250GB)
+6. Take out the fan
 
 Reassembling the PC was really satisfying because I could see how all the parts work together. 
 The workshop also covered basic troubleshooting, which I know will come in handy if I ever run into hardware issues. 
+Our group failed to turn on the computer for the first time, but after consulting, we successfully turn on the computer with our PC 
+that we assembled.
 Overall, I walked away with way more confidence in handling PC components, and now, building or upgrading a PC doesn’t feel as intimidating. 
 It was a great experience, and I can’t wait to put these skills to use!
 
